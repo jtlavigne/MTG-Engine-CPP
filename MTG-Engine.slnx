@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MTG-Engine/MTG-Engine.vcxproj" Id="c12b04b5-606f-40d9-9208-ca3b18354efc" />
+</Solution>
